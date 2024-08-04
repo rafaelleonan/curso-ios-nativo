@@ -1,0 +1,11 @@
+
+/* Class = "UIButton"; configuration.title = "ENVIAR"; ObjectID = "1eW-xm-THu"; */
+"1eW-xm-THu.configuration.title" = "ENVIAR";
+
+/* Class = "UITextField"; placeholder = "Digite seu nome"; ObjectID = "jWd-l4-12D"; */
+"jWd-l4-12D.placeholder" = "Digite seu nome";
+
+/* Class = "UILabel"; text = "Nome"; ObjectID = "l55-Uy-oIJ"; */
+"l55-Uy-oIJ.text" = "Nome";
+
+"cGW-MM-ak1.text" = "Português";
